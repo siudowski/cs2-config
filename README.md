@@ -1,7 +1,7 @@
 # config csowy by siudowski
 
 ## launch options
--window -noborder -w 1280 -h 1024 -high -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 +mat_queue_mode 2
+-window -noborder -w 1440 -h 1080 -high -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 +mat_queue_mode 2
 
 ## autoexec.cfg
 ```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg```
